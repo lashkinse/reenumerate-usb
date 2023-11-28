@@ -2,7 +2,6 @@ import os
 import subprocess
 import time
 
-
 USB_VEN_ID = '0x09da'
 USB_DEV_ID = '0x2268'
 
