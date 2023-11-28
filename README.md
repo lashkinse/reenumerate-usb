@@ -12,9 +12,11 @@ disconnection after login.
 Install Karabiner if not already installed.
 
 Install USB Prober in the folder
+
 ```apps/Utils/```
 
 Place the files reenumerate-usb.plist and reenumerate-usb.py in the folder
+
 ```~/Library/LaunchAgents```
 
 ## Configuration and Run:
@@ -26,7 +28,9 @@ Modify the ID of your hardware in the file reenumerate-usb.py:
 ```USB_DEV_ID = '0x2268'```
 
 Change "user" to your username in the file reenumerate-usb.plist:
+
 ```/Users/user/Library/LaunchAgents/reenumerate-usb.py```
 
 Verify the correctness of the settings by running the script with the command:
+
 ```python3 reenumerate-usb.py```
