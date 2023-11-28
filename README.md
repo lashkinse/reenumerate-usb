@@ -1,4 +1,4 @@
-# Troubleshooting Keyboard Disconnection Issue on Mac After Login
+# Troubleshooting Keyboard Disconnection Issue on Mac
 
 If you are experiencing issues with your keyboard disconnecting on your Mac after login, you can use the following
 script to reset the selected USB device. To successfully execute this script, make sure that Karabiner is already
